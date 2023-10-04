@@ -1,8 +1,17 @@
 # Government of Canada Recalls: Analysis and Visual Insights
 
 - This is one of my Data Analyst Portfolio projects focused on Food Recalls in Canada. This project is a comprehensive analysis of food recalls in Canada, fueled by data scraped from the official Canada Food Recalls website. 
-- This analysis opens a window into the complex landscape of food safety, providing valuable insights that can contribute to public health and policy decisions. 
-- This project employs comprehensive analysis and illuminating visualizations to uncover underlying patterns, trends, and potential areas for enhancement within the domain of food recalls in Canada. 
-- By exploring the data, we scrutinize critical elements such as recall frequencies, their root causes, and the types of products most frequently impacted. Through thorough examination, the aim is to pinpoint recurring issues or trends that warrant attention for bolstering food safety measures.
+- Inspired by my experiences as a part-time associate in the receiving department at Walmart, where I interacted closely with incoming food items, I recognized a significant need for organized data on recalls. Having logged various food items, I delved into reports on recalls and returns, witnessing the extensive processing involved.
+- This experience ignited the spark for this portfolio project.  Using my skills as a data analyst, and utilizing Python programming language along with leveraging the power of Power BI, I gathered the data, cleaned it and after further preprocessing, I was able to present a comprehensive report. 
+- This report not only highlights the types and reasons behind recalls but also sheds light on the occurrence percentage of various allergens and issues in the Canadian food industry.
 
 #### Tools Used: Excel, Python, SQL, Microsoft PowerBI
+
+A food recall is the removal of a food product from the market to avoid further sale or use, or the correction of its label at any point in the supply chain.
+
+Process:
+Webscraping using beautifulSoup, to get information about the reasons for recalls, date and causes. This data was compiled and successfully extracted into columns title, date, recall issue, audience, company, province, and recall class
+
+The title, brand and various important keywords were extracted from the title. This is done by using a defined regex function.
+
+Further data cleaning and transformation was done
