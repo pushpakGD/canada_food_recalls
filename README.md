@@ -9,9 +9,7 @@
 
 A food recall is the removal of a food product from the market to avoid further sale or use, or the correction of its label at any point in the supply chain.
 
-Process:
-Webscraping using beautifulSoup, to get information about the reasons for recalls, date and causes. This data was compiled and successfully extracted into columns title, date, recall issue, audience, company, province, and recall class
-
-The title, brand and various important keywords were extracted from the title. This is done by using a defined regex function.
-
-Further data cleaning and transformation was done
+#### Process:
+- Webscraping using beautifulSoup, to get information about the reasons for recalls, date and causes. This data was compiled and successfully extracted into columns title, date, recall issue, audience, company, province, and recall class
+- The title, brand and various important keywords were extracted from the title. This is done by using a defined regex function.
+- Further data cleaning and transformation was done
