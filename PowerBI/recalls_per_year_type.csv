@@ -1,0 +1,51 @@
+,year,hazard_type,count
+2,2011,Extraneous Material,45
+1,2011,Chemical,46
+5,2011,Microbiological,108
+0,2011,Allergen,182
+9,2012,Chemical,17
+10,2012,Extraneous Material,45
+14,2012,Microbiological,150
+8,2012,Allergen,151
+17,2013,Chemical,13
+18,2013,Extraneous Material,33
+21,2013,Microbiological,120
+16,2013,Allergen,209
+24,2014,Chemical,11
+25,2014,Extraneous Material,34
+27,2014,Microbiological,132
+23,2014,Allergen,346
+30,2015,Chemical,16
+31,2015,Extraneous Material,38
+33,2015,Microbiological,122
+29,2015,Allergen,166
+37,2016,Chemical,12
+38,2016,Extraneous Material,55
+39,2016,Microbiological,115
+36,2016,Allergen,184
+43,2017,Chemical,6
+44,2017,Extraneous Material,48
+46,2017,Microbiological,118
+42,2017,Allergen,122
+50,2018,Chemical,6
+51,2018,Extraneous Material,36
+49,2018,Allergen,91
+52,2018,Microbiological,120
+55,2019,Chemical,5
+56,2019,Extraneous Material,40
+54,2019,Allergen,102
+58,2019,Microbiological,123
+62,2020,Chemical,10
+63,2020,Extraneous Material,29
+66,2020,Microbiological,79
+61,2020,Allergen,82
+70,2021,Chemical,10
+71,2021,Extraneous Material,18
+73,2021,Microbiological,62
+69,2021,Allergen,66
+78,2022,Chemical,6
+82,2022,Extraneous Material,26
+75,2022,Allergen,42
+95,2023,Chemical,3
+98,2023,Extraneous Material,9
+92,2023,Allergen,26
