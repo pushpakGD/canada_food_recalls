@@ -22,4 +22,5 @@ A food recall is the removal of a food product from the market to avoid further 
 
 - Insights and analysis are presented in a Power BI story/report. You can download the Power BI file from the PowerBI folder.
 
+![pbiss1](https://github.com/pushpakGD/canada_food_recalls/blob/main/images/pbiss1.png)
   
