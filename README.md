@@ -19,6 +19,7 @@ A food recall is the removal of a food product from the market to avoid further 
 
 #### Results:
 - A total of 4081 food safety recalls were cleaned for analysis in the final extraction and analysis stage
-
+![fr1](https://github.com/pushpakGD/canada_food_recalls/blob/main/images/fr1.png)
 
 - Insights and analysis are presented in a Power BI story/report. You can download the Power BI file from the PowerBI folder.
+  
